@@ -1,0 +1,10 @@
+Advantages of Inhertence:
+1. it helps to avoid redundancy of code in subclass by inheriting from super-class.
+2. Saves time and effort as the main code need not be written again.
+3. Using inheritance through  which one object acquires the properties of another object.
+------------------------------------------------------------------------------------------------
+Advantage of polymorphism:
+1. Code reusability
+2.Maintainability
+3.Extensibility
+4. Reduction in Complexity 
